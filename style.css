@@ -1,3 +1,8 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
 .header {
   background-color: #1F2937;
 }
@@ -115,4 +120,47 @@ button {
   font-size: 26px;
   font-weight: bold;
   padding-left: 450px;
+}
+
+.content4 {
+  background-color: #3882F6;
+  margin: 100px;
+  padding: 40px;
+  border-radius: 8px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+.CtA {
+  color: #F9FAF8;
+  margin-left: 80px;
+  font-size: 36px;
+  margin-bottom: 0;
+}
+
+.test3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.CtA2 {
+  font-size: 20px
+}
+
+.button2 {
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  color: #F9FAF8;
+  padding: 10px 50px;
+  margin-right: 80px;
+}
+
+.footer {
+  background-color: #1F2937;
+  color: #F9FAF8;
+  padding: 30px;
+  text-align: center;
 }
