@@ -78,6 +78,7 @@ button {
   justify-content: center;
   gap: 100px;
   flex-wrap: wrap;
+  margin-bottom: 100px;
 }
 
 .image2 {
@@ -90,4 +91,28 @@ button {
 
 .sub {
   max-width: 160px;
+}
+
+.content3 {
+  background-color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  color: #1F2937;
+  max-width: 750px;
+  margin-bottom: 0;
+}
+
+.quote2 {
+  text-align: right;
+  font-size: 26px;
+  font-weight: bold;
+  padding-left: 450px;
 }
